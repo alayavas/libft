@@ -146,9 +146,6 @@ The library follows standard C library conventions for error handling:
 - No function calls `exit()` or terminates the program
 - Input validation is performed where appropriate
 
-## Author
-
-**alyavas** - [alyavas@student.42kocaeli.com.tr](mailto:alyavas@student.42kocaeli.com.tr)
 
 ## School
 
